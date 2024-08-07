@@ -5,3 +5,7 @@
 3. Write a program to interface keypad with STM32 and if we press any key it should print “Key pressed”.
 
 4. Write a program in keypad matrix to print the keypad value corresponding to key pressed in keypad matrix
+
+5. Write a program to display the number pressed on the keypad on 7 segment
+
+6. Write a program to toggle the LED number of times displayed on 7 segment
